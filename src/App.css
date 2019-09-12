@@ -1,0 +1,21 @@
+/* .card {
+  font-size: 5px !important;
+  width: 100px;
+}
+.card > .header {
+  width: 100%;
+  border-bottom: 1px solid gray;
+  font-size: 14px;
+  text-align: center;
+} */
+
+
+.popup-content{
+  width: 350px !important;
+  color: black;
+  
+  }
+  th{
+    width: 200px;
+  }
+  
